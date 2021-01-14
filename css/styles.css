@@ -6525,10 +6525,13 @@ button.bg-dark:focus {
     height: 160px;
     width: 160px;
   }
+<<<<<<< HEAD
 
   .undergrad-contatiner{
     height: 60vh;
   }
+=======
+>>>>>>> parent of 9614a74... Update styles.css
   .carousel-container{
     padding-bottom: 0px!;
     height: 32vh;
