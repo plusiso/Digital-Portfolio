@@ -6506,6 +6506,9 @@ button.bg-dark:focus {
     height: 220px;
     width: 175px;
   }
+  .undergrad-contatiner{
+    height: 80vh;
+  }
   .carousel-container{
     padding-bottom: 0px!;
     height: 32vh;
