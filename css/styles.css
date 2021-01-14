@@ -1924,11 +1924,30 @@ pre code {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  .page-section {
+    padding: 2rem;
+  }
   .table-responsive-sm > .table-bordered {
     border: 0;
   }
+
+
 }
 @media (max-width: 767.98px) {
+  .page-section {
+    padding: 2rem;
+  }
+  #carousel-header{
+    font-size: 20px;
+  }
+
+  .about-text{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #2c3e50;
+  }
   .table-responsive-md {
     display: block;
     width: 100%;
@@ -6503,17 +6522,18 @@ button.bg-dark:focus {
 }
 @media (max-width: 768px) {
   .carousel-inner{
-    height: 220px;
-    width: 175px;
+    height: 180px;
+    width: 180px;
   }
   .undergrad-contatiner{
-    height: 80vh;
+    height: 60vh;
   }
   .carousel-container{
     padding-bottom: 0px!;
     height: 32vh;
     padding-left: 10px;
     padding-right: 10px;
+    margin-top: 35px;
   }
   #carousel-desc{
     font-size: 20px;
