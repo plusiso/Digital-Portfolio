@@ -5793,7 +5793,10 @@ a.close.disabled {
   border-width: 0.5rem 0 0.5rem 0.5rem;
   border-left-color: #fff;
 }
+#carousel-subdesc{
+  font-size: 14px;
 
+}
 .popover-header {
   padding: 0.5rem 0.75rem;
   margin-bottom: 0;
@@ -5870,7 +5873,7 @@ a.close.disabled {
   padding-bottom: 30px;
   background-color: rgba(255, 255, 255, 0.8);
   border-radius: 15px;
-
+  height: 100vh;
 }
 
 
@@ -6503,6 +6506,11 @@ button.bg-dark:focus {
   }
   #carousel-desc{
     font-size: 20px;
+  }
+  #carousel-subdesc{
+    font-size: 14px;
+    font-weight:large;
+   
   }
   #carousel-header{
     font-size: 26px;
