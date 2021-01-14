@@ -5797,6 +5797,7 @@ a.close.disabled {
   font-size: 14px;
 
 }
+
 .popover-header {
   padding: 0.5rem 0.75rem;
   margin-bottom: 0;
@@ -5873,7 +5874,7 @@ a.close.disabled {
   padding-bottom: 30px;
   background-color: rgba(255, 255, 255, 0.8);
   border-radius: 15px;
-  height: 100vh;
+  height: 115vh;
 }
 
 
@@ -5903,6 +5904,13 @@ a.close.disabled {
   overflow: hidden;
   max-height: 400px;
   max-width: 350px;
+}
+.carousel-involvement{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  /* max-height: 400px;
+  max-width: 350px; */
 }
 .carousel-inner::after {
   display: block;
@@ -6515,9 +6523,7 @@ button.bg-dark:focus {
   #carousel-header{
     font-size: 26px;
   }
-  .carousel-container2{
-    height: 30vh;
-  }
+
 }
 @media (min-width: 992px) {
   .d-lg-none {
