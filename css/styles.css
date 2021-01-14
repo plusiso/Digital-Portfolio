@@ -6522,9 +6522,10 @@ button.bg-dark:focus {
 }
 @media (max-width: 768px) {
   .carousel-inner{
-    height: 180px;
-    width: 180px;
+    height: 160px;
+    width: 160px;
   }
+
   .undergrad-contatiner{
     height: 60vh;
   }
