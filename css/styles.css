@@ -5891,7 +5891,7 @@ a.close.disabled {
 .undergrad-contatiner{
   padding-top: 40px;
   padding-bottom: 30px;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.0);
   border-radius: 15px;
   height: 115vh;
 }
@@ -6525,13 +6525,13 @@ button.bg-dark:focus {
     height: 160px;
     width: 160px;
   }
-<<<<<<< HEAD
+
 
   .undergrad-contatiner{
     height: 60vh;
   }
-=======
->>>>>>> parent of 9614a74... Update styles.css
+
+
   .carousel-container{
     padding-bottom: 0px!;
     height: 32vh;
